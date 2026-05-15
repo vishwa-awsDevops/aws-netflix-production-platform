@@ -1,1 +1,0 @@
-# aws-netflix-production-platform
